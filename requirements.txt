@@ -1,0 +1,6 @@
+Flask
+requests
+python-dateutil
+gTTS
+SpeechRecognition
+pydub
